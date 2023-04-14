@@ -2,7 +2,7 @@
 A purely OpenCV(C++) approach to detect arrows without use of machine learning.
 
 ## Dependencies
-Requires OpenCV(>=4.6.0), install guide available [here](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html)
+Requires OpenCV(>=4.6.0), install guide available [here](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html).
 
 ## Compiling and Executing
 
